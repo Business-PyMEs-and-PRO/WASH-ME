@@ -1017,6 +1017,7 @@
       </div>
     <h2>3</h2>
         <p>Tu vehículo queda listo</p>
+    
       </div>
       <div class="steps">
         <div class="step">
@@ -1024,7 +1025,6 @@
           <h3>¿Qué incluye?</h3>
           <p>Ideal para mantener tu vehículo limpio y con una excelente presentación. Realizamos un lavado exterior con jabón neutro pH, diseñado para cuidar la pintura mientras elimina suciedad, polvo y residuos del camino. Un servicio rápido, seguro y perfecto para el mantenimiento diario. 
             Tiempo estimado del servicio de 30 min. a 45 min.</p>
-        </div>
         <div class="step">
           <div class="num">PRO</div>
           <h3>¿Qué incluye?</h3>
@@ -1036,7 +1036,7 @@
           <h3>¿Qué incluye?</h3>
           <p>Nuestro servicio más completo. Incluye todo lo del Plan Pro, además de una limpieza profunda del interior, restauración de plásticos para devolverles su apariencia original y un encerado exterior que aporta brillo y una capa extra de protección para la pintura. Es la mejor opción para quienes quieren mantener su vehículo impecable, protegido y con un acabado de nivel profesional.
 Tiempo estimado del servicio de 1 hr y 15 min. a 1 hr y 30 min.</p>
-        </div>
+        
       </div>
     </div>
   </section>
