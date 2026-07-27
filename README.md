@@ -1017,7 +1017,6 @@
       </div>
     <h2>3</h2>
         <p>Tu vehículo queda listo</p>
-    
       </div>
       <div class="steps">
         <div class="step">
