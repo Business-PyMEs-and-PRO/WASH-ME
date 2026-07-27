@@ -1009,23 +1009,31 @@
         <span class="eyebrow"><span class="dot"></span> El proceso</span>
         <h2>Tres pasos y listo</h2>
         <p>Sin filas, sin llevar el coche a ningún lado. Nosotros llegamos con todo lo necesario para dejarlo limpio en tu cochera o cajón de estacionamiento.</p>
+      <h2>1</h2>
+        <p>Agenda tu horario</p>
+      </div>
+      <h2>2</h2>
+        <p>Llegamos a tu domicilio</p>
+      </div>
+    <h2>3</h2>
+        <p>Tu vehículo queda listo</p>
       </div>
       <div class="steps">
         <div class="step">
           <div class="num">BASICO</div>
-          <h3>Agenda tu horario</h3>
+          <h3>¿Qué incluye?</h3>
           <p>Ideal para mantener tu vehículo limpio y con una excelente presentación. Realizamos un lavado exterior con jabón neutro pH, diseñado para cuidar la pintura mientras elimina suciedad, polvo y residuos del camino. Un servicio rápido, seguro y perfecto para el mantenimiento diario. 
             Tiempo estimado del servicio de 30 min. a 45 min.</p>
         </div>
         <div class="step">
           <div class="num">PRO</div>
-          <h3>Llegamos a tu domicilio</h3>
+          <h3>¿Qué incluye?</h3>
           <p>Incluye todo lo del Plan Básico, además de un aspirado completo del interior para eliminar polvo, tierra y residuos de alfombras, tapetes y asientos. La combinación perfecta para quienes buscan un vehículo limpio tanto por fuera como por dentro, sin invertir horas en hacerlo por su cuenta.
           Tiempo estimado del servicio de 45 min. a 1 hr.</p>
         </div>
         <div class="step">
           <div class="num">PREMIUM</div>
-          <h3>Tu vehículo queda listo</h3>
+          <h3>¿Qué incluye?</h3>
           <p>Nuestro servicio más completo. Incluye todo lo del Plan Pro, además de una limpieza profunda del interior, restauración de plásticos para devolverles su apariencia original y un encerado exterior que aporta brillo y una capa extra de protección para la pintura. Es la mejor opción para quienes quieren mantener su vehículo impecable, protegido y con un acabado de nivel profesional.
 Tiempo estimado del servicio de 1 hr y 15 min. a 1 hr y 30 min.</p>
         </div>
