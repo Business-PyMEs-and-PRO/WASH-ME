@@ -1020,7 +1020,7 @@
       </div>
       <div class="steps">
         <div class="step">
-          <div class="num">BASICO</div>
+          <div class="num">BÁSICO</div>
           <h3>¿Qué incluye?</h3>
           <p>Ideal para mantener tu vehículo limpio y con una excelente presentación. Realizamos un lavado exterior con jabón neutro pH, diseñado para cuidar la pintura mientras elimina suciedad, polvo y residuos del camino. Un servicio rápido, seguro y perfecto para el mantenimiento diario. 
             Tiempo estimado del servicio de 30 min. a 45 min.</p>
