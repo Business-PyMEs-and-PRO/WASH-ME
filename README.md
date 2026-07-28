@@ -1012,20 +1012,20 @@
       </div>
       <div class="steps">
         <div class="step">
-          <div class="num">01</div>
-          <h3>Agenda tu horario</h3>
+          <div class="num">BÁSICO</div>
+          <h3></h3>
           <p>Ideal para mantener tu vehículo limpio y con una excelente presentación. Realizamos un lavado exterior con jabón neutro pH, diseñado para cuidar la pintura mientras elimina suciedad, polvo y residuos del camino. Un servicio rápido, seguro y perfecto para el mantenimiento diario. 
             Tiempo estimado del servicio de 30 min. a 45 min.</p>
         </div>
         <div class="step">
-          <div class="num">02</div>
-          <h3>Llegamos a tu domicilio</h3>
+          <div class="num">PRO</div>
+          <h3></h3>
           <p>Incluye todo lo del Plan Básico, además de un aspirado completo del interior para eliminar polvo, tierra y residuos de alfombras, tapetes y asientos. La combinación perfecta para quienes buscan un vehículo limpio tanto por fuera como por dentro, sin invertir horas en hacerlo por su cuenta.
           Tiempo estimado del servicio de 45 min. a 1 hr.</p>
         </div>
         <div class="step">
-          <div class="num">03</div>
-          <h3>Tu vehículo queda listo</h3>
+          <div class="num">PREMIUM</div>
+          <h3></h3>
           <p>Nuestro servicio más completo. Incluye todo lo del Plan Pro, además de una limpieza profunda del interior, restauración de plásticos para devolverles su apariencia original y un encerado exterior que aporta brillo y una capa extra de protección para la pintura. Es la mejor opción para quienes quieren mantener su vehículo impecable, protegido y con un acabado de nivel profesional.
 Tiempo estimado del servicio de 1 hr y 15 min. a 1 hr y 30 min.</p>
         </div>
